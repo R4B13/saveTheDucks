@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53ee86c56a2e7b241bd30891cae68823
+timeCreated: 1484588024
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: square kids
+  fontNames:
+  - square kids
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
